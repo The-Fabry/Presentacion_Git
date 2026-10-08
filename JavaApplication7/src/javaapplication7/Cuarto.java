@@ -10,4 +10,6 @@ package javaapplication7;
  */
 public class Cuarto {
     //hola
+    
+    //que tal 
 }
