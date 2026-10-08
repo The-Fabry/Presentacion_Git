@@ -9,5 +9,5 @@ package javaapplication7;
  * @author User
  */
 public class Cuarto {
-    
+    //hola
 }
